@@ -1,3 +1,3 @@
 
 Hi, I'm joshua wallace.
-I am currently intrested in pathplanning for robotics.
+I am currently interested in pathplanning for robotics.
